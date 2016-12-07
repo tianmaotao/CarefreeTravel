@@ -20,6 +20,8 @@
 
 @implementation ScenicSpotViewController
 
+
+
 - (instancetype)initWithCoder:(NSCoder *)coder
 {
     self = [super initWithCoder:coder];
